@@ -5,8 +5,8 @@ Experience: +3 years working as a Full Stack Developer and DevOps Engineer <br>
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) 	![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) <br>
 
  <h2>Profissional Projects</h2>
-<h4>Matriz Negócios Website</h4><br>
-<h5> Description: </h5><br>
+<h4>Matriz Negócios Website</h4>
+<h5> Description: </h5>
 I developed and maintain the website www.matriznegocios.com, responsible for showcasing the services and information of Matriz Negócios. <br>
 <h5> Technologies Used: </h5>
 - .NET<br>
