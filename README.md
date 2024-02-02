@@ -1,7 +1,8 @@
 <h2>About Me 👋</h2>
 Name: Pedro Pinguelli Borges <br>
 Education: MBA Full Stack Development from FIAP <br>
-Experience: +3 years working as a Full Stack Developer and DevOps Engineer <br>
+Experience: +3 years working as a Full Stack Developer and DevOps Engineer <br> 
+<br>
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
