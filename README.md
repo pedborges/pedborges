@@ -19,6 +19,7 @@ Experience: +3 years working as a Full Stack Developer and DevOps Engineer <br>
 <h4>Matriz Negócios Website</h4>
  Description: <br>
 I developed and maintain the website www.matriznegocios.com, responsible for showcasing the services and information of Matriz Negócios. <br>
+<br>
  Technologies Used:  <br>
 - .NET<br>
 - Angular<br>
