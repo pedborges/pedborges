@@ -26,6 +26,7 @@ I developed and maintain the website https://matriznegocios.com,  responsible fo
 - .NET<br>
 - Angular<br>
 - Firebase<br>
+- Azure<br>
 - Git Hub Actions<br>
   
  <h2> How to Reach Me </h2>
