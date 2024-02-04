@@ -3,6 +3,7 @@ Name: Pedro Pinguelli Borges <br>
 Education: MBA Full Stack Development from FIAP <br>
 Experience: +3 years working as a Full Stack Developer and DevOps Engineer <br> 
 AZ-900 certificated
+
 <br>
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
