@@ -37,7 +37,7 @@ Technologies Used: <br>
 - Angular<br>
 - MongoDB<br>
 - Docker<br>
-- Azyre<br>
+- Azure<br>
 
   
  <h2> How to Reach Me </h2>
