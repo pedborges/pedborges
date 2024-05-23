@@ -30,7 +30,7 @@ I developed and maintain the website https://matriznegocios.com,  responsible fo
 - Git Hub Actions<br>
 
 <h4>Dinherama</h4>
-I developed this site to help people understand and better manage their expenses. <br>
+I developed this site https://dinherama.com to help people understand and better manage their expenses. <br>
 <br>
 Technologies Used: <br>
 - Golang <br>
