@@ -18,17 +18,6 @@ AZ-900 certificated
 
 
  <h2>Profissional Projects:</h2>
-<h4>Matriz Negócios Website</h4>
- Description: <br>
-I developed and maintain the website https://matriznegocios.com,  responsible for showcasing the services and information of Matriz Negócios. <br>
-<br>
- Technologies Used:  <br>
-- .NET<br>
-- Angular<br>
-- Firebase<br>
-- Azure<br>
-- Git Hub Actions<br>
-
 <h4>Dinherama</h4>
 I developed this site https://dinherama.com to help people understand and better manage their expenses. <br>
 <br>
